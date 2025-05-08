@@ -4,7 +4,5 @@ yfinance
 pandas
 plotly
 datetime
-requests
-json
 anthropic
 openai

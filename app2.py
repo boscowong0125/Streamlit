@@ -5,8 +5,6 @@ import yfinance as yf
 import pandas as pd
 import plotly.graph_objects as go
 from datetime import datetime, timedelta
-import requests
-import json
 import anthropic
 from openai import OpenAI
 
